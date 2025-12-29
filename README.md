@@ -113,13 +113,13 @@ public class CorsFilter implements ContainerResponseFilter {
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](resources/dashboard.png)
 
 ### Add Person Modal
-![Add Person](screenshots/add-person.png)
+![Add Person](resources/add-person.png)
 
 ### Edit Person
-![Edit Person](screenshots/edit-person.png)
+![Edit Person](resources/edit-person.png)
 
 ## 🎯 API Endpoints Used
 
@@ -196,14 +196,12 @@ npx kill-port 3000
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Project Link: [https://github.com/yourusername/person-management-frontend](https://github.com/yourusername/person-management-frontend)
+**Amine Ben Amara**
+- GitHub: [@AminePYC](https://github.com/AminePYC)
+- Project Link: [https://github.com/yourusername/REST-PROJECT](https://github.com/AminePYC/REST-PROJECT)
 
 ## 📄 License
 
-This project is part of an academic assignment for JEE/JAX-RS course.
+This project is For anyone that want's it :).
 
 ---
-
-**Note**: Make sure your backend is running before starting the frontend application!
